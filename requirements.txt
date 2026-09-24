@@ -1,0 +1,6 @@
+Flask==3.0.3
+Flask_Cors==5.0.0
+llama_index==0.12.52
+llama_index.llms.groq==0.3.2
+python-dotenv
+groq
