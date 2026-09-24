@@ -255,6 +255,10 @@ To make this fully functional, ensure you have:
 
 <div align="center">
 
+##Demo View
+<img width="1912" height="1006" alt="image" src="https://github.com/user-attachments/assets/7a0dcccf-bd01-41c3-91df-590a2d480555" />
+
+
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
 </div>
