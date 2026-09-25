@@ -4,7 +4,6 @@ A modern Python Flask-based web application that provides an interactive chat in
 
 ## 📋 Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-Flask-lightgrey.svg)](https://flask.palletsprojects.com/)
 [![LLM Provider](https://img.shields.io/badge/LLM-Groq-green.svg)](https://groq.com/)
@@ -28,7 +27,6 @@ A modern Python Flask-based web application that provides an interactive chat in
 ├── static/              # Static assets (CSS, JS, images) for the frontend
 ├── .env.example         # Example environment variables file
 ├── .gitignore          # Specifies intentionally untracked files that Git should ignore
-├── LICENSE             # Project's MIT License
 ├── app.py              # Main Flask application logic
 ├── index.html          # Basic HTML frontend for interacting with the chatbot
 ├── requirements.txt    # Python package dependencies
